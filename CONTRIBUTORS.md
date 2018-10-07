@@ -14,3 +14,8 @@
 -Place: Uttarakhand,India
 -Bio: Programmer,Pursuing Btech from DIT UNIVERSITY
 -Github: [koderproxy](https://github.com/koderproxy)
+
+### Name:Akshat Gupta
+-Place: Bengaluru, India
+-Bio: Frontend Lead, Graduated from DAIICT Gandhinagar
+-Github: [agupta93](https://github.com/agupta93)
