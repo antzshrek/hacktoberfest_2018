@@ -19,3 +19,9 @@
 -Place: Bengaluru, India
 -Bio: Frontend Lead, Graduated from DAIICT Gandhinagar
 -Github: [agupta93](https://github.com/agupta93)
+
+
+### Name:Pocholo Recto
+-Place: Philippines
+-Bio: Web developer
+-Github: [cholorecto](https://github.com/cholorecto)
