@@ -19,3 +19,8 @@
 -Place: Bengaluru, India
 -Bio: Frontend Lead, Graduated from DAIICT Gandhinagar
 -Github: [agupta93](https://github.com/agupta93)
+
+### Name:Angelica Tamayo
+-Place: Davao City, Philippines
+-Bio: Frontend Developer, Graduated from UIC
+-Github: [anjtamayo](https://github.com/angelicaT3)
