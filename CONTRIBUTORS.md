@@ -37,3 +37,8 @@
 -Place: Philippines
 -Bio: Web developer
 -Github: [cholorecto](https://github.com/cholorecto)
+
+#### Name: [HARSH GUPTA](https://github.com/khiladimahan1210)
+- Place: GUWAHATI, ASSAM, INDIA
+- Bio:  btech student from iit guwahati
+- GitHub: [HARSH GUPTA](https://github.com/khiladimahan1210)
