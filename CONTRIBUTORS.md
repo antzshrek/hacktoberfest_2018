@@ -20,7 +20,20 @@
 -Bio: Frontend Lead, Graduated from DAIICT Gandhinagar
 -Github: [agupta93](https://github.com/agupta93)
 
+
 ### Name:Angelica Tamayo
 -Place: Davao City, Philippines
 -Bio: Frontend Developer, Graduated from UIC
 -Github: [anjtamayo](https://github.com/angelicaT3)
+
+
+### Name:Kerstine Rodilla
+-Place: Davao, Philippines
+-Bio: Quality Assurance, Graduated from USEP Davao
+-Github: [kerstinerodilla](https://github.com/kerstinerodilla)
+
+
+### Name:Pocholo Recto
+-Place: Philippines
+-Bio: Web developer
+-Github: [cholorecto](https://github.com/cholorecto)
