@@ -11,32 +11,32 @@
 
 
 #### Name:Prashant kumar
--Place: Uttarakhand,India
--Bio: Programmer,Pursuing Btech from DIT UNIVERSITY
--Github: [koderproxy](https://github.com/koderproxy)
+- Place: Uttarakhand,India
+- Bio: Programmer,Pursuing Btech from DIT UNIVERSITY
+- Github: [koderproxy](https://github.com/koderproxy)
 
 ### Name:Akshat Gupta
--Place: Bengaluru, India
--Bio: Frontend Lead, Graduated from DAIICT Gandhinagar
--Github: [agupta93](https://github.com/agupta93)
+- Place: Bengaluru, India
+- Bio: Frontend Lead, Graduated from DAIICT Gandhinagar
+- Github: [agupta93](https://github.com/agupta93)
 
 
 ### Name:Angelica Tamayo
--Place: Davao City, Philippines
--Bio: Frontend Developer, Graduated from UIC
--Github: [anjtamayo](https://github.com/angelicaT3)
+- Place: Davao City, Philippines
+- Bio: Frontend Developer, Graduated from UIC
+- Github: [anjtamayo](https://github.com/angelicaT3)
 
 
 ### Name:Kerstine Rodilla
--Place: Davao, Philippines
--Bio: Quality Assurance, Graduated from USEP Davao
--Github: [kerstinerodilla](https://github.com/kerstinerodilla)
+- Place: Davao, Philippines
+- Bio: Quality Assurance, Graduated from USEP Davao
+- Github: [kerstinerodilla](https://github.com/kerstinerodilla)
 
 
 ### Name:Pocholo Recto
--Place: Philippines
--Bio: Web developer
--Github: [cholorecto](https://github.com/cholorecto)
+- Place: Philippines
+- Bio: Web developer
+- Github: [cholorecto](https://github.com/cholorecto)
 
 #### Name: [HARSH GUPTA](https://github.com/khiladimahan1210)
 - Place: GUWAHATI, ASSAM, INDIA
