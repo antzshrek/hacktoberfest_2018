@@ -21,6 +21,12 @@
 -Github: [agupta93](https://github.com/agupta93)
 
 
+### Name:Kerstine Rodilla
+-Place: Davao, Philippines
+-Bio: Quality Assurance, Graduated from USEP Davao
+-Github: [kerstinerodilla](https://github.com/kerstinerodilla)
+
+
 ### Name:Pocholo Recto
 -Place: Philippines
 -Bio: Web developer
