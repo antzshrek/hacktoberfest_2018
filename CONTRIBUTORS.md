@@ -42,3 +42,8 @@
 - Place: GUWAHATI, ASSAM, INDIA
 - Bio:  btech student from iit guwahati
 - GitHub: [HARSH GUPTA](https://github.com/khiladimahan1210)
+
+### Name:Jahzeel Pontillas
+- Place: Philippines
+- Bio: Web developer
+- Github: [Jahzeelirish](https://github.com/Jahzeelirish)
